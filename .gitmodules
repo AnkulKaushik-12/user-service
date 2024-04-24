@@ -1,0 +1,3 @@
+[submodule "mainservice"]
+	path = mainservice
+	url = https://github.com/AnkulKaushik-12/mainservice
